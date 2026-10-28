@@ -1,0 +1,93 @@
+{
+  "accuracy": 0.8181818181818182,
+  "results": [
+    {
+      "file": "1_2.jpeg",
+      "position": 1,
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.999956488609314,
+      "correct": true
+    },
+    {
+      "file": "2_3.jpeg",
+      "position": 2,
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.9997938275337219,
+      "correct": true
+    },
+    {
+      "file": "3_1.jpeg",
+      "position": 3,
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.9991844296455383,
+      "correct": true
+    },
+    {
+      "file": "4_2.jpeg",
+      "position": 4,
+      "true": 2,
+      "pred": 1,
+      "confidence": 0.3586147129535675,
+      "correct": false
+    },
+    {
+      "file": "5_0.jpeg",
+      "position": 5,
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.9988094568252563,
+      "correct": true
+    },
+    {
+      "file": "6_3.jpeg",
+      "position": 6,
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.9999954700469971,
+      "correct": true
+    },
+    {
+      "file": "7_0.jpeg",
+      "position": 7,
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.9998552799224854,
+      "correct": true
+    },
+    {
+      "file": "8_3.jpeg",
+      "position": 8,
+      "true": 3,
+      "pred": 5,
+      "confidence": 0.6237689256668091,
+      "correct": false
+    },
+    {
+      "file": "9_0.jpeg",
+      "position": 9,
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.9999010562896729,
+      "correct": true
+    },
+    {
+      "file": "10_0.jpeg",
+      "position": 10,
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.9999985694885254,
+      "correct": true
+    },
+    {
+      "file": "11_5.jpeg",
+      "position": 11,
+      "true": 5,
+      "pred": 5,
+      "confidence": 1.0,
+      "correct": true
+    }
+  ]
+}
