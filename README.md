@@ -1,8 +1,8 @@
 # MNIST ile MLP Tabanlı El Yazısı Rakam Tanıma
 
-**Ad Soyad: Zehra Ceren Kocaman** 
-**Öğrenci No: 23120303005** 
-**Bölüm: Fizik Mühendisliği** 
+**Ad Soyad:** Zehra Ceren Kocaman\
+**Öğrenci No:** 23120303005\
+**Bölüm:** Fizik Mühendisliği
 
 Bu projede, MNIST veri seti üzerinde PyTorch ile bir MLP modeli eğitildi.
 Önce temel hiperparametre değerleri belirlendi, ardından bu parametreler tek
