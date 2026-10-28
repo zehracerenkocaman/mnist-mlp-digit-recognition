@@ -73,7 +73,8 @@ Gerçek numara: `23120303005`, modelin okuduğu: `23110305005`.
 ![Tahminler](results/kendi_el_yazim_tahminler.png)
 
 ## 6. Genel Değerlendirme
-...
+
+Ayrıntılı analiz ve grafik karşılaştırmaları için: [Rapor (PDF)](rapor/rapor.pdf)
 
 ## 7. Çalıştırma
 ```bash
