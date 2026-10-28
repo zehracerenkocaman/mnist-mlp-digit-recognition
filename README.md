@@ -74,6 +74,8 @@ Gerçek numara: `23120303005`, modelin okuduğu: `23110305005`.
 
 ## 6. Genel Değerlendirme
 
+Temel model MNIST test kümesinde %97.71 doğruluğa ulaşırken, hiperparametre deneylerinde en büyük düşüşü SGD (−2.35 puan) ve yüksek learning rate (−0.86 puan) getirdi; kendi el yazımla yapılan testte ise 11 rakamın 9'u doğru tahmin edildi.
+
 Ayrıntılı analiz ve grafik karşılaştırmaları için: [Rapor (PDF)](rapor/rapor.pdf)
 
 ## 7. Çalıştırma
